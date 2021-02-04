@@ -1,7 +1,7 @@
 
 ### Kia ora, 你好, hello there 👋
 
-- 🔭  I’m currently working [@Onsend](https://www.onsend.com/) 
+- 🔭  I’m currently working [@ASB Bank](https://www.asb.co.nz/) 
 - 🌱  I’m currently learning Serverless and Deno
 - 👯  I’m looking to collaborate on NodeJS, ReactJS, VueJS
 - 🎣  Ask me about Fishing and Coding 
