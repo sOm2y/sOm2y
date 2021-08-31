@@ -6,7 +6,6 @@
 - 👯  I’m looking to collaborate on NodeJS, ReactJS, VueJS
 - 🎣  Ask me about Fishing and Coding 
 - 🇳🇿  Living in New Zealand
-- 📫  How to reach me: sam@masterdo.co.nz
 
 ---
 ### Github Summary
