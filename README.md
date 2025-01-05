@@ -12,4 +12,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sOm2y&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sOm2y&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sOm2y&theme=default&hide_border=true)
 
